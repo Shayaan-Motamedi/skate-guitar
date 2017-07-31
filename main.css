@@ -74,11 +74,12 @@ li {
 	font-size: 15px;
 }
 .about-photo {
-	text-align: center;
+	align: center;
 }
 .about-photo1 {
 	width: 600px;
 	border-radius: 20px;
+	padding: 40px;
 }
 /* -----------Contacts Page-------------- */
 .contact-body{
