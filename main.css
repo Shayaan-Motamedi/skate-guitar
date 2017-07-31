@@ -22,9 +22,7 @@ li {
 .home-photo {
   border-radius: 20px;
   height: 600px;
-  margin: 5px 30px 70px 30px;
-  text-align: center;
-  
+  margin: 5px;
 }
 .name {
   text-align: center;
