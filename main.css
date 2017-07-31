@@ -1,0 +1,102 @@
+/* -----------Home Page-------------- */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 0px 0px 0px;
+}
+li {
+  display: inline;
+  padding: 5px;
+  font-size: 15px;
+  
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.header-photo {
+  text-align: center;
+}
+.home-photo {
+  border-radius: 20px;
+  height: 600px;
+  margin: 5px 30px 70px 30px;
+  
+}
+.name {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(200,100,100);
+  padding-top: 50px;
+  font-family: monospace;
+}
+.sub-title {
+	text-align: center;
+}
+
+.facebook {
+  color: black;
+}
+.twitter {
+	color: black;
+}
+.youtube {
+	color: black;
+}
+.soundcloud {
+	color: black;
+}
+/* -----------News Page-------------- */
+.news-header {
+  padding-top: 30px;
+  text-align: center;
+}
+.news-photo {
+	border-radius: 20px;
+}
+
+/* -----------Photos Page-------------- */
+.photos {
+  padding-top: 30px;
+  text-align: center;
+}
+.photo1 {
+  height: 300px;
+  border-radius: ;
+  padding: 15px;
+}
+.photo2 {
+   height: 300px;
+  border-radius: ;
+  padding: 15px;
+}
+.photo3 {
+  height: 300px;
+  border-radius: ;
+  padding: 15px;
+}
+/* -----------About Page-------------- */
+.story {
+	margin: 30px 250px 50px 250px;
+	font-size: 15px;
+}
+.about-photo {
+	text-align: center;
+}
+.about-photo1 {
+	width: 600px;
+	border-radius: 20px;
+}
+/* -----------Contacts Page-------------- */
+.contact-body{
+	padding-top: 40px;
+	text-align: center;
+}	
+}
+.contact-info {
+	padding-left: 40px;
+	padding-top: 20px;
+	
+}
