@@ -49,15 +49,6 @@ li {
 .soundcloud {
 	color: black;
 }
-/* -----------News Page-------------- */
-.news-header {
-  padding-top: 30px;
-  text-align: center;
-}
-.news-photo {
-	border-radius: 20px;
-}
-
 /* -----------Photos Page-------------- */
 .photos {
   padding-top: 30px;
@@ -89,7 +80,6 @@ li {
 .about-photo1 {
 	width: 600px;
 	border-radius: 20px;
-	text-align: center;
 }
 /* -----------Contacts Page-------------- */
 .contact-body{
