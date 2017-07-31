@@ -17,12 +17,12 @@ li {
   float: right;
 }
 .header-photo {
-  text-align: center;
+  align: center;
 }
 .home-photo {
   border-radius: 20px;
   height: 600px;
-  margin: 5px;
+  margin: 20px;
 }
 .name {
   text-align: center;
