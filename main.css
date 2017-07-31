@@ -23,6 +23,7 @@ li {
   border-radius: 20px;
   height: 600px;
   margin: 5px 30px 70px 30px;
+  text-align: center;
   
 }
 .name {
@@ -88,6 +89,7 @@ li {
 .about-photo1 {
 	width: 600px;
 	border-radius: 20px;
+	text-align: center;
 }
 /* -----------Contacts Page-------------- */
 .contact-body{
