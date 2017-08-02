@@ -20,9 +20,10 @@ li {
   text-align: center;
 }
 .home-photo {
+  display: block;
   border-radius: 20px;
   height: 600px;
-  margin: 5px 30px 70px 30px;
+  margin: auto;
   
 }
 .name {
