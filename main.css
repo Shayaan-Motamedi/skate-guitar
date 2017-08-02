@@ -75,7 +75,8 @@ li {
 	font-size: 15px;
 }
 .about-photo {
-	text-align: center;
+	display: block;
+	margin: auto;
 }
 .about-photo1 {
 	width: 600px;
