@@ -24,7 +24,6 @@ li {
   border-radius: 20px;
   height: 600px;
   margin: auto;
-  
 }
 .name {
   text-align: center;
@@ -73,6 +72,7 @@ li {
 .story {
 	margin: 30px 250px 50px 250px;
 	font-size: 15px;
+}
 .about-photo1 {
 	display: block;
 	margin: auto;
