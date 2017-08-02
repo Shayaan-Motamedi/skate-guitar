@@ -7,7 +7,7 @@ ul {
 li {
   display: inline;
   padding: 5px;
-  font-size: 15px;
+  font-size: 20px;
   
 }
 .left {
@@ -73,12 +73,9 @@ li {
 .story {
 	margin: 30px 250px 50px 250px;
 	font-size: 15px;
-}
-.about-photo {
+.about-photo1 {
 	display: block;
 	margin: auto;
-}
-.about-photo1 {
 	width: 600px;
 	border-radius: 20px;
 }
