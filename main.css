@@ -32,10 +32,9 @@ li {
   padding-top: 50px;
   font-family: monospace;
 }
-.sub-title {
-	text-align: center;
+.title {
+  padding-bottom: 20px;
 }
-
 .facebook {
   color: black;
 }
